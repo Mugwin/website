@@ -5,3 +5,7 @@ This is the readme file for this project.
 ## Updates
 
 Adding changes for example.
+
+###
+
+Adding further updates to demonstrate automatic merges.
