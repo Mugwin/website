@@ -6,6 +6,10 @@ This is the readme file for this project.
 
 Adding changes for example.
 
-###
+##
 
 Adding further updates to demonstrate automatic merges.
+
+##
+
+This is going to be painful, but we'll deal with it.
